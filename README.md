@@ -18,10 +18,10 @@ BookDBCodeTest is an Android application for searching and saving books.
 <img src="https://github.com/MyaThanHtet/BookDBCodeTest/assets/50415966/f954c4ec-249d-4660-bffc-7b1021b8657b" width="30%"  alt="Screenshot 6">
 
 ## Screen Recording Video
-[![Watch the screen recording video](https://youtu.be/YYckKhM7hlI)]
+[![Watch the screen recording video](https://img.youtube.com/vi/YYckKhM7hlI/0.jpg)](https://youtu.be/YYckKhM7hlI)
 
 ## Download APK
-[![Download](https://drive.google.com/file/d/1L8BqgMTmLGlpQRzEpCfrIWI2Mu3q2tGi/view?usp=share_link)]
+https://drive.google.com/file/d/1L8BqgMTmLGlpQRzEpCfrIWI2Mu3q2tGi/view?usp=share_link
 
 ## Technologies Used
 
