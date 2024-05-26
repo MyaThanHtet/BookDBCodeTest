@@ -21,7 +21,7 @@ BookDBCodeTest is an Android application for searching and saving books.
 [![Watch the screen recording video](https://img.youtube.com/vi/YYckKhM7hlI/0.jpg)](https://youtu.be/YYckKhM7hlI)
 
 ## Download APK
-https://drive.google.com/file/d/1L8BqgMTmLGlpQRzEpCfrIWI2Mu3q2tGi/view?usp=share_link
+https://drive.google.com/file/d/1k8t55_adLA1qSNLZmZyq-v8bmCHV-QOD/view?usp=sharing
 
 ## Technologies Used
 
@@ -63,7 +63,7 @@ The project follows the MVVM (Model-View-ViewModel) architecture. Here is a high
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone <https://github.com/MyaThanHtet/BookDBCodeTest.git>`
 2. Open the project in Android Studio.
 3. Build and run the application on an emulator or physical device.
 
