@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BookDB CodeTest</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_search">Search</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_profile">Profile</string>
+    <string name="sign_up">Register</string>
+    <string name="welcome">Welcome,</string>
+    <string name="register_in_to_continue">Register to continue</string>
+    <string name="email">Email</string>
+    <string name="already_registered">Already registered?</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Log In</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="book_image">Book Image</string>
+    <string name="favorite">Favorite</string>
+    <string name="name">Name</string>
+    <string name="log_out">Log Out</string>
+    <string name="lorem">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+</resources>

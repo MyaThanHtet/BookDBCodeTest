@@ -1,0 +1,10 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_focused="false"
+        android:drawable="@drawable/person"
+        /> <!-- not focused -->
+    <item
+        android:state_focused="true"
+        android:drawable="@drawable/person_focused"
+        /> <!-- focused -->
+</selector>
